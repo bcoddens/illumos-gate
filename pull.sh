@@ -1,2 +1,1 @@
-git fetch upstream
-git merge upstream -v
+git pull upstream build
